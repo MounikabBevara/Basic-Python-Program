@@ -1,0 +1,6 @@
+My_int=9
+My_float=14.3
+My_bool=False
+print("Integer is :",My_int)
+print("Float is :",My_float)
+print("Boolean is :",My_bool)
