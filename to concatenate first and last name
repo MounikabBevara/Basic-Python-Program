@@ -1,0 +1,4 @@
+A=input("Enter First Name :")
+B=input("Enter Second Name :")
+Full_Name=A+B
+print("Full Name :",Full_Name)
