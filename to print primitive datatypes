@@ -1,0 +1,6 @@
+A=18
+B=14
+C=True
+print("Integer is :",A)
+print("Float is :",B)
+print("Boolean is :",C)
