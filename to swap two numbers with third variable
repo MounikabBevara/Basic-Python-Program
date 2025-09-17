@@ -1,0 +1,7 @@
+A=9
+B=5
+temp=A
+A=B
+B=temp
+print("After Swapping :",A)
+print("After Swapping :",B)
