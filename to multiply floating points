@@ -1,0 +1,4 @@
+A=int(input("Enter a Number :"))
+B=int(input("Enter a Number :"))
+Result=A*B
+print("The Output is :",Result)
