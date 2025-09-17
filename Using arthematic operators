@@ -1,0 +1,6 @@
+A=18
+B=14
+print("Addition of Two Numbers :",A+B)
+print("Substraction of Two Numbers :",A-B)
+print("Multiplication of Two Numbers :",A*B)
+print("Division of Two Numbers :",A/B)
