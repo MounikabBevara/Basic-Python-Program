@@ -1,0 +1,4 @@
+num_1=int(input("Enter Your First Number :"))
+num_2=int(input("Enter Your Second Number :"))
+Sum=num_1+num_2
+print("The Sum of Two Numbers is :",Sum)
