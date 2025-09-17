@@ -1,0 +1,3 @@
+n=int(input("Enter How Many Odd Number to Sum :"))
+Sum_Odd=n**2
+print("The Sum of First ",n,"Odd Numbers is :",Sum_Odd)
