@@ -1,0 +1,6 @@
+num_1=int(input("Enter a Number :"))
+num_2=int(input("Enter a Number :"))
+num_3=int(input("Enter a Number :"))
+Sum=num_1+num_2+num_3
+Avg=Sum/3
+print("The Average of 3 Numbers is :",Avg)
